@@ -1,0 +1,21 @@
+id	weight
+animal1	300
+animal2	280
+animal3	350
+animal4	*
+animal5	290
+animal6	310
+animal7	300
+animal8	330
+animal9	300
+animal10	*
+animal11	280
+animal12	325
+animal13	335
+animal14	305
+animal15	275
+animal16	265
+animal17	415
+animal18	325
+
+

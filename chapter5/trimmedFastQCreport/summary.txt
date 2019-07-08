@@ -1,0 +1,11 @@
+PASS	Basic Statistics	trimmedRNA.fastq
+PASS	Per base sequence quality	trimmedRNA.fastq
+PASS	Per sequence quality scores	trimmedRNA.fastq
+PASS	Per base sequence content	trimmedRNA.fastq
+PASS	Per base GC content	trimmedRNA.fastq
+PASS	Per sequence GC content	trimmedRNA.fastq
+PASS	Per base N content	trimmedRNA.fastq
+WARN	Sequence Length Distribution	trimmedRNA.fastq
+WARN	Sequence Duplication Levels	trimmedRNA.fastq
+WARN	Overrepresented sequences	trimmedRNA.fastq
+PASS	Kmer Content	trimmedRNA.fastq

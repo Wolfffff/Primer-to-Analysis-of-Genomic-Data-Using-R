@@ -1,0 +1,11 @@
+PASS	Basic Statistics	RNAseq.fastq
+FAIL	Per base sequence quality	RNAseq.fastq
+PASS	Per sequence quality scores	RNAseq.fastq
+FAIL	Per base sequence content	RNAseq.fastq
+FAIL	Per base GC content	RNAseq.fastq
+PASS	Per sequence GC content	RNAseq.fastq
+PASS	Per base N content	RNAseq.fastq
+PASS	Sequence Length Distribution	RNAseq.fastq
+WARN	Sequence Duplication Levels	RNAseq.fastq
+WARN	Overrepresented sequences	RNAseq.fastq
+WARN	Kmer Content	RNAseq.fastq

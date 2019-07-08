@@ -1,0 +1,14 @@
+# sire data for weight project
+# 10 sires, 5 markers
+# this header text is added just to be a nuisance!
+id	weight	m11	m12	m21	m22	m31	m32	m41	m42	m51	m52
+sire1	334.14	M2	M1	M3	M2	M3	M4	M4	M2	M4	M2
+sire2	364.81	M3	M2	M3	M2	M2	M3	M2	M4	M3	M1
+sire3	383.95	M2	M4	M2	M4	M3	M2	M3	M4	M1	M4
+sire4	349.88	M2	M1	M1	M2	M4	M3	M2	M1	M4	M3
+sire5	357.87	M1	M3	M2	M1	M3	M1	M3	M4	M3	M2
+sire6	364.87	M3	M2	M1	M3	M4	M2	M3	M1	M1	M3
+sire7	361.36	M4	M1	M4	M1	M2	M1	M1	M2	M2	M4
+sire8	357.56	M3	M4	M2	M4	M4	M1	M2	M4	M1	M3
+sire9	333.49	M1	M2	M4	M3	M3	M2	M1	M2	M3	M2
+sire10	360.92	M2	M3	M3	M1	M3	M2	M2	M3	M3	M2
